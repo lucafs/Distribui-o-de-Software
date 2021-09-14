@@ -1,4 +1,4 @@
-# Distribui-o-de-Software
+# Distribuição de Software
 
 This is a test package
 
